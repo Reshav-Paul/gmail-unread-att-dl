@@ -1,0 +1,15 @@
+{
+  "name": "gmail-attachment-downloader",
+  "version": "1.0.0",
+  "description": "'Bulk downloader of gmail attachments'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reshav Paul",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "googleapis": "^68.0.0"
+  }
+}
